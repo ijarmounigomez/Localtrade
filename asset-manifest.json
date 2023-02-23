@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/localtrade/static/css/main.e11e773b.css",
+    "main.js": "/localtrade/static/js/main.b6812b5f.js",
+    "static/media/amsterdam.jpg": "/localtrade/static/media/amsterdam.ea5ed39325f6444d7be5.jpg",
+    "index.html": "/localtrade/index.html",
+    "main.e11e773b.css.map": "/localtrade/static/css/main.e11e773b.css.map",
+    "main.b6812b5f.js.map": "/localtrade/static/js/main.b6812b5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e11e773b.css",
+    "static/js/main.b6812b5f.js"
+  ]
+}
